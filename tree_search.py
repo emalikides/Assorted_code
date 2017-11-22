@@ -1,4 +1,4 @@
-# Leetcode interview problem.
+
 # input: 2D graph * = bob, # = food, 0 = traversable, X = wall, \n = new line.  (May be multiple or no paths to food)
 # output: length of shortest path to food, or -1 if no path
 #  Solved for test cases below in: 16:17 -> 17:40 = 83 mins hmm.
