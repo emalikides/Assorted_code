@@ -1,2 +1,2 @@
 # assorted_code
-A number of assorted scripts
+Assorted solutions to various interesting programming problems.
